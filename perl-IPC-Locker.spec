@@ -7,12 +7,12 @@
 Summary:	IPC::Locker - Distributed lock handler
 Summary(pl):	IPC::Locker - Obs³uga rozproszonych blokad
 Name:		perl-IPC-Locker
-Version:	1.420
+Version:	1.430
 Release:	1
 License:	GPL/Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	cd125632ed5be93140b6cea7ce93e1c9
+# Source0-md5:	43fb10ecbe84e8c30362bcc58bce8529
 BuildRequires:	perl-devel >= 5.6
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
