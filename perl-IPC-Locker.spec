@@ -4,8 +4,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	IPC
 %define	pnam	Locker
-Summary:	IPC::Locker - Distributed lock handler
-Summary(pl):	IPC::Locker - Obs³uga rozproszonych blokad
+Summary:	IPC::Locker - distributed lock handler
+Summary(pl):	IPC::Locker - obs³uga rozproszonych blokad
 Name:		perl-IPC-Locker
 Version:	1.430
 Release:	1
