@@ -34,7 +34,7 @@ powodu stosowania NFS lub braku tej opcji w popularnych systemach plików.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %{!?_without_tests:%{__make} test}
