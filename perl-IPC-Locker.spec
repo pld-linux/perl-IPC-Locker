@@ -10,7 +10,7 @@ Summary(pl):	IPC::Locker - obs³uga rozproszonych blokad
 Name:		perl-IPC-Locker
 Version:	1.430
 Release:	1
-License:	GPL/Artistic
+License:	GPL or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	43fb10ecbe84e8c30362bcc58bce8529
