@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	IPC
-%define	pnam	Locker
+%define		pdir	IPC
+%define		pnam	Locker
 Summary:	IPC::Locker - distributed lock handler
 Summary(pl):	IPC::Locker - obs³uga rozproszonych blokad
 Name:		perl-IPC-Locker
