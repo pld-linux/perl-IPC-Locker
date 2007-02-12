@@ -6,7 +6,7 @@
 %define		pdir	IPC
 %define		pnam	Locker
 Summary:	IPC::Locker - distributed lock handler
-Summary(pl):	IPC::Locker - obs³uga rozproszonych blokad
+Summary(pl.UTF-8):   IPC::Locker - obsÅ‚uga rozproszonych blokad
 Name:		perl-IPC-Locker
 Version:	1.451
 Release:	1
@@ -25,12 +25,12 @@ for distributed utilities which run on many machines, and cannot use
 file locks or other such mechanisms due to NFS or lack of common file
 systems.
 
-%description -l pl
+%description -l pl.UTF-8
 IPC::Locker zapyta zdalny serwer w celu otrzymania blokady. Jest
-u¿yteczny dla rozproszonych aplikacji, dzia³aj±cych na wielu maszynach
-i nie mog±cych u¿ywaæ blokad plikowych (file locks) lub innych tego
-typu mechanizmów z powodu stosowania NFS lub braku tej opcji w
-popularnych systemach plików.
+uÅ¼yteczny dla rozproszonych aplikacji, dziaÅ‚ajÄ…cych na wielu maszynach
+i nie mogÄ…cych uÅ¼ywaÄ‡ blokad plikowych (file locks) lub innych tego
+typu mechanizmÃ³w z powodu stosowania NFS lub braku tej opcji w
+popularnych systemach plikÃ³w.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
