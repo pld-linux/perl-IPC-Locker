@@ -6,7 +6,7 @@
 %define		pdir	IPC
 %define		pnam	Locker
 Summary:	IPC::Locker - distributed lock handler
-Summary(pl.UTF-8):   IPC::Locker - obsługa rozproszonych blokad
+Summary(pl.UTF-8):	IPC::Locker - obsługa rozproszonych blokad
 Name:		perl-IPC-Locker
 Version:	1.451
 Release:	1
